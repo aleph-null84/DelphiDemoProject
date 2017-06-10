@@ -9,7 +9,7 @@ uses
 
 begin
   try
-    Writeln('Hello World!');
+    Writeln('llo World!');
     Readln;
   except
     on E: Exception do
